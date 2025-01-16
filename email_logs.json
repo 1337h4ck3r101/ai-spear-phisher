@@ -1,0 +1,450 @@
+[
+    {
+        "To": "Margaret Johnson <nicholasbirindelli@gmail.com>",
+        "From": "Fox, Buck and Hayes <stephanie@cybersecurity.com>",
+        "Department": "Marketing",
+        "Subject": "Password Reset Requested",
+        "Body": "Dear Margaret Johnson,\\n\\nWe noticed an increase in engagement with our recent campaigns. Let's schedule a follow-up to discuss strategies.\\n\\nBest,\\nFox, Buck and Hayes\\nMarketing Team"
+    },
+    {
+        "To": "Steven Robinson <nicholasbirindelli@gmail.com>",
+        "From": "Torres Group <joy@cybersecurity.com>",
+        "Department": "Sales",
+        "Subject": "Network Activity Report",
+        "Body": "Hello Steven Robinson,\\n\\nPlease find attached the updated sales report for this month. Let\u2019s meet to go over key points.\\n\\nRegards,\\nTorres Group\\nSales"
+    },
+    {
+        "To": "Theodore Robinson <rparker@yahoo.com>",
+        "From": "Watkins Ltd <adam@cybersecurity.com>",
+        "Department": "C-Suite",
+        "Subject": "Suspicious Login Alert",
+        "Body": "Hello Theodore Robinson,\\n\\nOur quarterly performance review is upcoming. I\u2019d appreciate your input on our financial projections.\\n\\nBest regards,\\nWatkins Ltd\\nExecutive Team"
+    },
+    {
+        "To": "Christopher Le <nicholscolleen@hotmail.com>",
+        "From": "Sullivan-Valencia <elizabeth@cybersecurity.com>",
+        "Department": "C-Suite",
+        "Subject": "New Device Access",
+        "Body": "Hello Christopher Le,\\n\\nOur quarterly performance review is upcoming. I\u2019d appreciate your input on our financial projections.\\n\\nBest regards,\\nSullivan-Valencia\\nExecutive Team"
+    },
+    {
+        "To": "Danielle Everett <angela66@taylor-hall.biz>",
+        "From": "Ellis PLC <elizabeth@cybersecurity.com>",
+        "Department": "Sales",
+        "Subject": "New Device Access",
+        "Body": "Hello Danielle Everett,\\n\\nPlease find attached the updated sales report for this month. Let\u2019s meet to go over key points.\\n\\nRegards,\\nEllis PLC\\nSales"
+    },
+    {
+        "To": "Jasmine Romero <gvazquez@ford.net>",
+        "From": "Ramirez LLC <sherri@cybersecurity.com>",
+        "Department": "Sales",
+        "Subject": "Account Compromise Alert",
+        "Body": "Hello Jasmine Romero,\\n\\nPlease find attached the updated sales report for this month. Let\u2019s meet to go over key points.\\n\\nRegards,\\nRamirez LLC\\nSales"
+    },
+    {
+        "To": "Austin Murray <dthomas@rivera-guzman.com>",
+        "From": "Roberts-Williams <mike@cybersecurity.com>",
+        "Department": "Sales",
+        "Subject": "Unusual IP Detected",
+        "Body": "Dear Austin Murray,\\n\\nWe've identified potential leads in the last campaign. I\u2019ll set up a meeting to strategize follow-ups.\\n\\nThank you,\\nRoberts-Williams\\nSales Department"
+    },
+    {
+        "To": "Shannon Romero <joshua94@yahoo.com>",
+        "From": "Yoder Group <deborah@cybersecurity.com>",
+        "Department": "C-Suite",
+        "Subject": "Network Activity Report",
+        "Body": "Hello Shannon Romero,\\n\\nOur quarterly performance review is upcoming. I\u2019d appreciate your input on our financial projections.\\n\\nBest regards,\\nYoder Group\\nExecutive Team"
+    },
+    {
+        "To": "Juan Kirby <lgray@gmail.com>",
+        "From": "Jones-Lawson <anthony@cybersecurity.com>",
+        "Department": "C-Suite",
+        "Subject": "New Device Access",
+        "Body": "Hello Juan Kirby,\\n\\nOur quarterly performance review is upcoming. I\u2019d appreciate your input on our financial projections.\\n\\nBest regards,\\nJones-Lawson\\nExecutive Team"
+    },
+    {
+        "To": "Patricia Hawkins <sherry60@rodriguez.net>",
+        "From": "Baker, Rojas and Williams <danielle@cybersecurity.com>",
+        "Department": "C-Suite",
+        "Subject": "Suspicious Login Alert",
+        "Body": "Hello Patricia Hawkins,\\n\\nOur quarterly performance review is upcoming. I\u2019d appreciate your input on our financial projections.\\n\\nBest regards,\\nBaker, Rojas and Williams\\nExecutive Team"
+    },
+    {
+        "To": "Larry Hernandez <fstrickland@scott.org>",
+        "From": "Gross Ltd <bryan@cybersecurity.com>",
+        "Department": "Sales",
+        "Subject": "New Device Access",
+        "Body": "Hi Larry Hernandez,\\n\\nSales metrics are trending upwards this quarter. Could we arrange a meeting to review these figures and discuss next steps?\\n\\nBest,\\nGross Ltd\\nSales Team"
+    },
+    {
+        "To": "Andrew Skinner <hansendavid@scott.com>",
+        "From": "Frank, Foster and Wilson <janice@cybersecurity.com>",
+        "Department": "Marketing",
+        "Subject": "Suspicious Login Alert",
+        "Body": "Hello Andrew Skinner,\\n\\nThe analytics from our latest email blast are in. I\u2019d like to review the results with you this week.\\n\\nRegards,\\nFrank, Foster and Wilson\\nMarketing"
+    },
+    {
+        "To": "Ruth Shannon <jessica54@chen-anderson.com>",
+        "From": "Haynes, Gonzalez and Parrish <ryan@cybersecurity.com>",
+        "Department": "C-Suite",
+        "Subject": "Suspicious Login Alert",
+        "Body": "Dear Ruth Shannon,\\n\\nWe\u2019re considering policy updates across departments. I\u2019d like your insights before the next review session.\\n\\nSincerely,\\nHaynes, Gonzalez and Parrish\\nExecutive Office"
+    },
+    {
+        "To": "Denise May <johnramos@mueller-lee.com>",
+        "From": "Armstrong-Jones <daniel@cybersecurity.com>",
+        "Department": "C-Suite",
+        "Subject": "Account Compromise Alert",
+        "Body": "Dear Denise May,\\n\\nWe\u2019re considering policy updates across departments. I\u2019d like your insights before the next review session.\\n\\nSincerely,\\nArmstrong-Jones\\nExecutive Office"
+    },
+    {
+        "To": "Carol Bridges <lauradavis@yahoo.com>",
+        "From": "Hunter, Scott and Jones <rose@cybersecurity.com>",
+        "Department": "Marketing",
+        "Subject": "Security Patch Released",
+        "Body": "Hey Carol Bridges,\\n\\nWe\u2019re planning next month\u2019s promotions and would love your input on creative ideas. Let me know your availability.\\n\\nThanks,\\nHunter, Scott and Jones\\nMarketing Dept"
+    },
+    {
+        "To": "Christian Hall <nrobinson@johnson.com>",
+        "From": "Garcia, Graves and Clements <lauren@cybersecurity.com>",
+        "Department": "C-Suite",
+        "Subject": "Account Compromise Alert",
+        "Body": "Dear Christian Hall,\\n\\nAs a follow-up to last week\u2019s board meeting, please review the attached documents on upcoming initiatives.\\n\\nSincerely,\\nGarcia, Graves and Clements\\nCEO Office"
+    },
+    {
+        "To": "Anthony Glover <farmertyler@lewis-pope.com>",
+        "From": "Hess-Diaz <barbara@cybersecurity.com>",
+        "Department": "C-Suite",
+        "Subject": "Unusual IP Detected",
+        "Body": "Hello Anthony Glover,\\n\\nOur quarterly performance review is upcoming. I\u2019d appreciate your input on our financial projections.\\n\\nBest regards,\\nHess-Diaz\\nExecutive Team"
+    },
+    {
+        "To": "Janet Page <ukirk@burton-oneill.com>",
+        "From": "Gray, Juarez and Brown <kenneth@cybersecurity.com>",
+        "Department": "Marketing",
+        "Subject": "Unusual IP Detected",
+        "Body": "Hello Janet Page,\\n\\nThe analytics from our latest email blast are in. I\u2019d like to review the results with you this week.\\n\\nRegards,\\nGray, Juarez and Brown\\nMarketing"
+    },
+    {
+        "To": "Nichole Franklin <adam31@chambers-robbins.com>",
+        "From": "Thomas-Pena <joshua@cybersecurity.com>",
+        "Department": "Sales",
+        "Subject": "Network Activity Report",
+        "Body": "Dear Nichole Franklin,\\n\\nWe've identified potential leads in the last campaign. I\u2019ll set up a meeting to strategize follow-ups.\\n\\nThank you,\\nThomas-Pena\\nSales Department"
+    },
+    {
+        "To": "Wanda Hancock <hughescarrie@williams.com>",
+        "From": "Blankenship-Pruitt <jessica@cybersecurity.com>",
+        "Department": "Marketing",
+        "Subject": "Password Reset Requested",
+        "Body": "Hello Wanda Hancock,\\n\\nThe analytics from our latest email blast are in. I\u2019d like to review the results with you this week.\\n\\nRegards,\\nBlankenship-Pruitt\\nMarketing"
+    },
+    {
+        "To": "Michael King <patriciatucker@rodriguez.com>",
+        "From": "Murphy-Hopkins <dennis@cybersecurity.com>",
+        "Department": "Marketing",
+        "Subject": "Security Patch Released",
+        "Body": "Hey Michael King,\\n\\nWe\u2019re planning next month\u2019s promotions and would love your input on creative ideas. Let me know your availability.\\n\\nThanks,\\nMurphy-Hopkins\\nMarketing Dept"
+    },
+    {
+        "To": "Cory Jimenez <daniel48@hotmail.com>",
+        "From": "Santana Group <david@cybersecurity.com>",
+        "Department": "C-Suite",
+        "Subject": "Unusual IP Detected",
+        "Body": "Dear Cory Jimenez,\\n\\nWe\u2019re considering policy updates across departments. I\u2019d like your insights before the next review session.\\n\\nSincerely,\\nSantana Group\\nExecutive Office"
+    },
+    {
+        "To": "Sherry Little <jonathan91@hotmail.com>",
+        "From": "Lee Inc <joshua@cybersecurity.com>",
+        "Department": "C-Suite",
+        "Subject": "Suspicious Login Alert",
+        "Body": "Dear Sherry Little,\\n\\nWe\u2019re considering policy updates across departments. I\u2019d like your insights before the next review session.\\n\\nSincerely,\\nLee Inc\\nExecutive Office"
+    },
+    {
+        "To": "Nancy Watkins <wardmichael@ryan-long.info>",
+        "From": "Dunn, Marquez and Thomas <scott@cybersecurity.com>",
+        "Department": "Marketing",
+        "Subject": "Account Compromise Alert",
+        "Body": "Dear Nancy Watkins,\\n\\nWe noticed an increase in engagement with our recent campaigns. Let's schedule a follow-up to discuss strategies.\\n\\nBest,\\nDunn, Marquez and Thomas\\nMarketing Team"
+    },
+    {
+        "To": "Erik Jones <thomasgardner@peterson.com>",
+        "From": "West, Johnston and Howell <anthony@cybersecurity.com>",
+        "Department": "C-Suite",
+        "Subject": "Password Reset Requested",
+        "Body": "Hello Erik Jones,\\n\\nOur quarterly performance review is upcoming. I\u2019d appreciate your input on our financial projections.\\n\\nBest regards,\\nWest, Johnston and Howell\\nExecutive Team"
+    },
+    {
+        "To": "Kristina Stevens <kevinirwin@yahoo.com>",
+        "From": "Ward, Perez and Sullivan <julie@cybersecurity.com>",
+        "Department": "Sales",
+        "Subject": "Suspicious Login Alert",
+        "Body": "Hi Kristina Stevens,\\n\\nSales metrics are trending upwards this quarter. Could we arrange a meeting to review these figures and discuss next steps?\\n\\nBest,\\nWard, Perez and Sullivan\\nSales Team"
+    },
+    {
+        "To": "Megan Sandoval <slong@murphy-reyes.com>",
+        "From": "Allen and Sons <claire@cybersecurity.com>",
+        "Department": "Marketing",
+        "Subject": "Password Reset Requested",
+        "Body": "Dear Megan Sandoval,\\n\\nWe noticed an increase in engagement with our recent campaigns. Let's schedule a follow-up to discuss strategies.\\n\\nBest,\\nAllen and Sons\\nMarketing Team"
+    },
+    {
+        "To": "Dr. Ashley Ortega <clementsderek@hotmail.com>",
+        "From": "Parks, Vargas and Calderon <audrey@cybersecurity.com>",
+        "Department": "C-Suite",
+        "Subject": "New Device Access",
+        "Body": "Dear Dr. Ashley Ortega,\\n\\nAs a follow-up to last week\u2019s board meeting, please review the attached documents on upcoming initiatives.\\n\\nSincerely,\\nParks, Vargas and Calderon\\nCEO Office"
+    },
+    {
+        "To": "Richard Collins <palmerjeffrey@gmail.com>",
+        "From": "Young PLC <jamie@cybersecurity.com>",
+        "Department": "Sales",
+        "Subject": "Security Patch Released",
+        "Body": "Hello Richard Collins,\\n\\nPlease find attached the updated sales report for this month. Let\u2019s meet to go over key points.\\n\\nRegards,\\nYoung PLC\\nSales"
+    },
+    {
+        "To": "Robert Baker <tpittman@lopez-martinez.com>",
+        "From": "Turner, Carter and Gonzales <robert@cybersecurity.com>",
+        "Department": "C-Suite",
+        "Subject": "New Device Access",
+        "Body": "Hello Robert Baker,\\n\\nOur quarterly performance review is upcoming. I\u2019d appreciate your input on our financial projections.\\n\\nBest regards,\\nTurner, Carter and Gonzales\\nExecutive Team"
+    },
+    {
+        "To": "Melanie Gibson <julia51@harris.net>",
+        "From": "Charles Group <david@cybersecurity.com>",
+        "Department": "C-Suite",
+        "Subject": "Network Activity Report",
+        "Body": "Dear Melanie Gibson,\\n\\nAs a follow-up to last week\u2019s board meeting, please review the attached documents on upcoming initiatives.\\n\\nSincerely,\\nCharles Group\\nCEO Office"
+    },
+    {
+        "To": "Joel Brown <michael58@gmail.com>",
+        "From": "Young Ltd <michelle@cybersecurity.com>",
+        "Department": "Marketing",
+        "Subject": "Network Activity Report",
+        "Body": "Hey Joel Brown,\\n\\nWe\u2019re planning next month\u2019s promotions and would love your input on creative ideas. Let me know your availability.\\n\\nThanks,\\nYoung Ltd\\nMarketing Dept"
+    },
+    {
+        "To": "Madeline Mitchell <rjones@gmail.com>",
+        "From": "Ortiz Group <dennis@cybersecurity.com>",
+        "Department": "C-Suite",
+        "Subject": "Password Reset Requested",
+        "Body": "Dear Madeline Mitchell,\\n\\nAs a follow-up to last week\u2019s board meeting, please review the attached documents on upcoming initiatives.\\n\\nSincerely,\\nOrtiz Group\\nCEO Office"
+    },
+    {
+        "To": "Harold Adams <richard79@hicks.com>",
+        "From": "Brown, Brown and Jenkins <luke@cybersecurity.com>",
+        "Department": "Sales",
+        "Subject": "Suspicious Login Alert",
+        "Body": "Hi Harold Adams,\\n\\nSales metrics are trending upwards this quarter. Could we arrange a meeting to review these figures and discuss next steps?\\n\\nBest,\\nBrown, Brown and Jenkins\\nSales Team"
+    },
+    {
+        "To": "Jorge Frank <manuelbarron@gmail.com>",
+        "From": "White-Johnson <connor@cybersecurity.com>",
+        "Department": "Sales",
+        "Subject": "Unusual IP Detected",
+        "Body": "Hello Jorge Frank,\\n\\nPlease find attached the updated sales report for this month. Let\u2019s meet to go over key points.\\n\\nRegards,\\nWhite-Johnson\\nSales"
+    },
+    {
+        "To": "Erin Vaughn <jlove@deleon.com>",
+        "From": "Guzman Group <peter@cybersecurity.com>",
+        "Department": "Sales",
+        "Subject": "New Device Access",
+        "Body": "Dear Erin Vaughn,\\n\\nWe've identified potential leads in the last campaign. I\u2019ll set up a meeting to strategize follow-ups.\\n\\nThank you,\\nGuzman Group\\nSales Department"
+    },
+    {
+        "To": "Thomas Gomez <michael04@yahoo.com>",
+        "From": "Becker-Salinas <sandra@cybersecurity.com>",
+        "Department": "Sales",
+        "Subject": "Password Reset Requested",
+        "Body": "Hello Thomas Gomez,\\n\\nPlease find attached the updated sales report for this month. Let\u2019s meet to go over key points.\\n\\nRegards,\\nBecker-Salinas\\nSales"
+    },
+    {
+        "To": "Kyle Smith <ucastro@griffith-stewart.biz>",
+        "From": "Hurst-Torres <david@cybersecurity.com>",
+        "Department": "Sales",
+        "Subject": "Password Reset Requested",
+        "Body": "Hello Kyle Smith,\\n\\nPlease find attached the updated sales report for this month. Let\u2019s meet to go over key points.\\n\\nRegards,\\nHurst-Torres\\nSales"
+    },
+    {
+        "To": "Crystal Dillon <zmoran@brown.com>",
+        "From": "Cannon-Contreras <christopher@cybersecurity.com>",
+        "Department": "Sales",
+        "Subject": "Security Patch Released",
+        "Body": "Hello Crystal Dillon,\\n\\nPlease find attached the updated sales report for this month. Let\u2019s meet to go over key points.\\n\\nRegards,\\nCannon-Contreras\\nSales"
+    },
+    {
+        "To": "Roger White <smithmelissa@jones.com>",
+        "From": "Brown Ltd <travis@cybersecurity.com>",
+        "Department": "C-Suite",
+        "Subject": "New Device Access",
+        "Body": "Dear Roger White,\\n\\nAs a follow-up to last week\u2019s board meeting, please review the attached documents on upcoming initiatives.\\n\\nSincerely,\\nBrown Ltd\\nCEO Office"
+    },
+    {
+        "To": "James Barber <padillajessica@kent.com>",
+        "From": "Sosa Inc <jessica@cybersecurity.com>",
+        "Department": "Marketing",
+        "Subject": "Unusual IP Detected",
+        "Body": "Hey James Barber,\\n\\nWe\u2019re planning next month\u2019s promotions and would love your input on creative ideas. Let me know your availability.\\n\\nThanks,\\nSosa Inc\\nMarketing Dept"
+    },
+    {
+        "To": "Jorge Peterson <charlene29@scott.com>",
+        "From": "Harris Group <nicole@cybersecurity.com>",
+        "Department": "Sales",
+        "Subject": "Unusual IP Detected",
+        "Body": "Hello Jorge Peterson,\\n\\nPlease find attached the updated sales report for this month. Let\u2019s meet to go over key points.\\n\\nRegards,\\nHarris Group\\nSales"
+    },
+    {
+        "To": "Carl Perez <andersonbrandy@duran.org>",
+        "From": "Beard-Brooks <katie@cybersecurity.com>",
+        "Department": "Marketing",
+        "Subject": "Password Reset Requested",
+        "Body": "Dear Carl Perez,\\n\\nWe noticed an increase in engagement with our recent campaigns. Let's schedule a follow-up to discuss strategies.\\n\\nBest,\\nBeard-Brooks\\nMarketing Team"
+    },
+    {
+        "To": "Laurie Singh <tamara11@yahoo.com>",
+        "From": "Noble, Gordon and Young <ronald@cybersecurity.com>",
+        "Department": "C-Suite",
+        "Subject": "New Device Access",
+        "Body": "Dear Laurie Singh,\\n\\nWe\u2019re considering policy updates across departments. I\u2019d like your insights before the next review session.\\n\\nSincerely,\\nNoble, Gordon and Young\\nExecutive Office"
+    },
+    {
+        "To": "Tracy Hoffman <joerogers@yahoo.com>",
+        "From": "Smith Group <katelyn@cybersecurity.com>",
+        "Department": "C-Suite",
+        "Subject": "Password Reset Requested",
+        "Body": "Hello Tracy Hoffman,\\n\\nOur quarterly performance review is upcoming. I\u2019d appreciate your input on our financial projections.\\n\\nBest regards,\\nSmith Group\\nExecutive Team"
+    },
+    {
+        "To": "Marcia Montoya <lopezamy@hotmail.com>",
+        "From": "Cook LLC <miguel@cybersecurity.com>",
+        "Department": "C-Suite",
+        "Subject": "Security Patch Released",
+        "Body": "Hello Marcia Montoya,\\n\\nOur quarterly performance review is upcoming. I\u2019d appreciate your input on our financial projections.\\n\\nBest regards,\\nCook LLC\\nExecutive Team"
+    },
+    {
+        "To": "Ashley Stewart <parkmelanie@smith-carlson.org>",
+        "From": "Smith Ltd <william@cybersecurity.com>",
+        "Department": "C-Suite",
+        "Subject": "Security Patch Released",
+        "Body": "Dear Ashley Stewart,\\n\\nWe\u2019re considering policy updates across departments. I\u2019d like your insights before the next review session.\\n\\nSincerely,\\nSmith Ltd\\nExecutive Office"
+    },
+    {
+        "To": "Antonio Miller <drogers@hotmail.com>",
+        "From": "Gross-Smith <jessica@cybersecurity.com>",
+        "Department": "Sales",
+        "Subject": "Account Compromise Alert",
+        "Body": "Hello Antonio Miller,\\n\\nPlease find attached the updated sales report for this month. Let\u2019s meet to go over key points.\\n\\nRegards,\\nGross-Smith\\nSales"
+    },
+    {
+        "To": "Kyle Collins <zwhitney@gonzalez-snow.info>",
+        "From": "Hernandez LLC <tara@cybersecurity.com>",
+        "Department": "Marketing",
+        "Subject": "Unusual IP Detected",
+        "Body": "Dear Kyle Collins,\\n\\nWe noticed an increase in engagement with our recent campaigns. Let's schedule a follow-up to discuss strategies.\\n\\nBest,\\nHernandez LLC\\nMarketing Team"
+    },
+    {
+        "To": "Amanda Jones <millerjason@moore-cole.info>",
+        "From": "Cook-Galvan <jacob@cybersecurity.com>",
+        "Department": "C-Suite",
+        "Subject": "Security Patch Released",
+        "Body": "Dear Amanda Jones,\\n\\nWe\u2019re considering policy updates across departments. I\u2019d like your insights before the next review session.\\n\\nSincerely,\\nCook-Galvan\\nExecutive Office"
+    },
+    {
+        "To": "Scott West <bellbrad@gmail.com>",
+        "From": "Martin-Mclean <evan@cybersecurity.com>",
+        "Department": "C-Suite",
+        "Subject": "Suspicious Login Alert",
+        "Body": "Dear Scott West,\\n\\nWe\u2019re considering policy updates across departments. I\u2019d like your insights before the next review session.\\n\\nSincerely,\\nMartin-Mclean\\nExecutive Office"
+    },
+    {
+        "To": "Melissa Hernandez <dbrewer@fisher.biz>",
+        "From": "Davidson-Booth <raymond@cybersecurity.com>",
+        "Department": "Marketing",
+        "Subject": "Unusual IP Detected",
+        "Body": "Hey Melissa Hernandez,\\n\\nWe\u2019re planning next month\u2019s promotions and would love your input on creative ideas. Let me know your availability.\\n\\nThanks,\\nDavidson-Booth\\nMarketing Dept"
+    },
+    {
+        "To": "Robert Stephenson <courtneydavis@haley.info>",
+        "From": "Hull-Owens <chris@cybersecurity.com>",
+        "Department": "Sales",
+        "Subject": "Unusual IP Detected",
+        "Body": "Dear Robert Stephenson,\\n\\nWe've identified potential leads in the last campaign. I\u2019ll set up a meeting to strategize follow-ups.\\n\\nThank you,\\nHull-Owens\\nSales Department"
+    },
+    {
+        "To": "Anthony Martin <jeanettewarner@vasquez.biz>",
+        "From": "Young PLC <jared@cybersecurity.com>",
+        "Department": "Marketing",
+        "Subject": "Suspicious Login Alert",
+        "Body": "Hello Anthony Martin,\\n\\nThe analytics from our latest email blast are in. I\u2019d like to review the results with you this week.\\n\\nRegards,\\nYoung PLC\\nMarketing"
+    },
+    {
+        "To": "Mary Phillips <halllawrence@yahoo.com>",
+        "From": "Mcdowell, Knapp and Juarez <courtney@cybersecurity.com>",
+        "Department": "C-Suite",
+        "Subject": "Unusual IP Detected",
+        "Body": "Dear Mary Phillips,\\n\\nAs a follow-up to last week\u2019s board meeting, please review the attached documents on upcoming initiatives.\\n\\nSincerely,\\nMcdowell, Knapp and Juarez\\nCEO Office"
+    },
+    {
+        "To": "Eric Hamilton <david68@gmail.com>",
+        "From": "Crawford and Sons <kathryn@cybersecurity.com>",
+        "Department": "Sales",
+        "Subject": "Password Reset Requested",
+        "Body": "Hi Eric Hamilton,\\n\\nSales metrics are trending upwards this quarter. Could we arrange a meeting to review these figures and discuss next steps?\\n\\nBest,\\nCrawford and Sons\\nSales Team"
+    },
+    {
+        "To": "Ashley Bowman <rodriguezantonio@thornton.com>",
+        "From": "Long-Green <karen@cybersecurity.com>",
+        "Department": "Sales",
+        "Subject": "Password Reset Requested",
+        "Body": "Dear Ashley Bowman,\\n\\nWe've identified potential leads in the last campaign. I\u2019ll set up a meeting to strategize follow-ups.\\n\\nThank you,\\nLong-Green\\nSales Department"
+    },
+    {
+        "To": "Tammy Phillips <pwilson@hotmail.com>",
+        "From": "Lane Ltd <larry@cybersecurity.com>",
+        "Department": "Sales",
+        "Subject": "Password Reset Requested",
+        "Body": "Hi Tammy Phillips,\\n\\nSales metrics are trending upwards this quarter. Could we arrange a meeting to review these figures and discuss next steps?\\n\\nBest,\\nLane Ltd\\nSales Team"
+    },
+    {
+        "To": "Michelle Haas <danderson@hotmail.com>",
+        "From": "Johnson-Arnold <benjamin@cybersecurity.com>",
+        "Department": "Marketing",
+        "Subject": "Network Activity Report",
+        "Body": "Hey Michelle Haas,\\n\\nWe\u2019re planning next month\u2019s promotions and would love your input on creative ideas. Let me know your availability.\\n\\nThanks,\\nJohnson-Arnold\\nMarketing Dept"
+    },
+    {
+        "To": "Monique Rogers <milleralex@hotmail.com>",
+        "From": "Washington-Thompson <mark@cybersecurity.com>",
+        "Department": "Marketing",
+        "Subject": "Security Patch Released",
+        "Body": "Hello Monique Rogers,\\n\\nThe analytics from our latest email blast are in. I\u2019d like to review the results with you this week.\\n\\nRegards,\\nWashington-Thompson\\nMarketing"
+    },
+    {
+        "To": "Ronald Reid <yneal@scott.info>",
+        "From": "Nguyen and Sons <tina@cybersecurity.com>",
+        "Department": "Marketing",
+        "Subject": "New Device Access",
+        "Body": "Dear Ronald Reid,\\n\\nWe noticed an increase in engagement with our recent campaigns. Let's schedule a follow-up to discuss strategies.\\n\\nBest,\\nNguyen and Sons\\nMarketing Team"
+    },
+    {
+        "To": "Collin White <john41@gmail.com>",
+        "From": "Anderson-Jacobson <jose@cybersecurity.com>",
+        "Department": "Sales",
+        "Subject": "Security Patch Released",
+        "Body": "Dear Collin White,\\n\\nWe've identified potential leads in the last campaign. I\u2019ll set up a meeting to strategize follow-ups.\\n\\nThank you,\\nAnderson-Jacobson\\nSales Department"
+    },
+    {
+        "To": "Michael Alexander <greenmelissa@hotmail.com>",
+        "From": "Ellison LLC <richard@cybersecurity.com>",
+        "Department": "Marketing",
+        "Subject": "Unusual IP Detected",
+        "Body": "Hey Michael Alexander,\\n\\nWe\u2019re planning next month\u2019s promotions and would love your input on creative ideas. Let me know your availability.\\n\\nThanks,\\nEllison LLC\\nMarketing Dept"
+    },
+    {
+        "To": "Pedro Cox <isaiahsanchez@bailey-patton.com>",
+        "From": "Ellison-Long <denise@cybersecurity.com>",
+        "Department": "Sales",
+        "Subject": "Network Activity Report",
+        "Body": "Hi Pedro Cox,\\n\\nSales metrics are trending upwards this quarter. Could we arrange a meeting to review these figures and discuss next steps?\\n\\nBest,\\nEllison-Long\\nSales Team"
+    }
+]
